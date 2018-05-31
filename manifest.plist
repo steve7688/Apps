@@ -19,13 +19,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://xf.7yworld.com/download/ios/qggame.jpg</string>
+					<string>https://raw.githubusercontent.com/steve7688/Apps/master/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://xf.7yworld.com/download/ios/qggame.jpg</string>
+					<string>https://raw.githubusercontent.com/steve7688/Apps/master/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
